@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simpal09" alt="simpal09" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analytics and Machine Learning**
-
+-  👨‍💻 All of my projects are available at .. [hhttps://github.com/Simpal09]((https://github.com/Simpal09))
 - 📫 How to reach me **pradhantejaswini15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
